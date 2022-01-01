@@ -10,7 +10,7 @@ Simply download and run this program in order to fix this issue. It will instant
 ### Virustotal
 You really thought it was a virus... you can access the Virustotal link here : https://www.virustotal.com/gui/file/1a8a21a24f547c880ac2ee052743beb9d8b87c9f037c78cb30900294e0e763b0
 
-This program isn't obfuscated in any way, you can use a program such as DNSpy or ILSpy to decompile this program and see the code for yourself if you really think it's a virus. Some people are absolute physcos now.
+This program isn't obfuscated in any way, you can use a program such as DNSpy or ILSpy to decompile this program and see the code for yourself if you really think it's a virus. Some people are absolute physcos or just really stupid nowadays...
 
 ### Screenshot
 ![image](https://cdn.discordapp.com/attachments/768148085192392735/926866603210072084/UnexpectedClientBehaviourFix_97CHQjjj5g.png "image")
