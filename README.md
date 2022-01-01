@@ -8,7 +8,7 @@ Go to  [releases](https://github.com/MainDabRblx/RobloxUnexpectedClientBehaviour
 Simply download and run this program in order to fix this issue. It will instantly fix the issue. Note that this is not a permanent fix, this should be ran every time you get this issue. There is no need to disable your antivirus (this ain't a virus). 
 
 ### Virustotal
-You really thought it was a virus... you can access the Virustotal link here : [https://www.virustotal.com/gui/file/1a8a21a24f547c880ac2ee052743beb9d8b87c9f037c78cb30900294e0e763b0](url)
+You really thought it was a virus... you can access the Virustotal link here : https://www.virustotal.com/gui/file/1a8a21a24f547c880ac2ee052743beb9d8b87c9f037c78cb30900294e0e763b0
 
 ### Screenshot
 ![image](https://cdn.discordapp.com/attachments/768148085192392735/926866603210072084/UnexpectedClientBehaviourFix_97CHQjjj5g.png "image")
