@@ -1,3 +1,5 @@
+**Program should be outdated**, as I don't think this issue exists anymore
+
 ## "Unexpected Client Behaviour" (Error 268) fix
 PROGRAM UPDATED 8 APRIL 2022, [read about the stuff here.](https://v3rmillion.net/showthread.php?tid=1162337) This program fixes the "Unexpected Client Behaviour" messages that pop up on Roblox every time you attempt playing Roblox. 
 
